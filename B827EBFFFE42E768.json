@@ -1,6 +1,6 @@
 {
   "gateway_conf": {
-    "gateway_ID": "B827EBFFFE19BA9D",
+    "gateway_ID": "B827EBFFFE42E768",
     "servers": [
       {
         "server_address": "router.eu.thethings.network",
@@ -9,10 +9,10 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 41.101783,
-    "ref_longitude": 29.032337,
-    "ref_altitude": 40,
+    "ref_latitude": 41.108064,
+    "ref_longitude": 29.033195,
+    "ref_altitude": 50,
     "contact_email": "ylli.rama@olcsancad.com",
-    "description": "OLCSAN - LoRa Gateway"
+    "description": "olcsan_gateway"
   }
 }
